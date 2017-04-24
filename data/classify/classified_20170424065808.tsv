@@ -1,0 +1,706 @@
+Number of labels: 3
+Number of documents in training set: 10454
+Tweet: 2305574708	RT @SVTechEvents: Don't miss the @WomenWhoCode #SiliconValley meetup this coming Thursday: https://t.co/9Q2vCuSMTY
+  city: -396.5738646567403  label: -473.4910509574726  tvshow: -522.3720793662694 => city
+Tweet: 16617221	RT @OutsideComicCon: Happy to be bridging @SiliconHBO &amp; #SVCC with this #PrizeMoose drop! Get this Pied Piper shirt now in the conventio\u2026 
+  city: -557.2234546219441  label: -540.856579495724  tvshow: -491.67629378092545 => tvshow
+Tweet: 847639440965025794	@truckrogers1 @gearmeister Once again proof of behind the scenes censorship tactics being used by the #SiliconValley swamp!
+  city: -536.7526110459356  label: -526.8767719402532  tvshow: -527.1645409259276 => label
+Tweet: 18180867	#siliconvalley #tech #iphone #applewatch #airpods #apple #ipad #mac #fanboy #cupertino #california #vacation #goog\u2026\u2026 https://t.co/2f9J5XSYWw
+  city: -532.412752649963  label: -557.8157349953383  tvshow: -656.4055449211253 => city
+Tweet: 3164788032	"Erlich: We're trending up
+  city: -198.99338405252237  label: -189.9824228200078  tvshow: -143.90168364218607 => tvshow
+Tweet: 1130138412	RT @JulianaJai: Welcome #SiliconHoller \u2013 Former miners out to put #Kentucky on the #tech map https://t.co/lL0AM1kkXc | #Coding #SiliconVall\u2026
+  city: -385.88850692267897  label: -444.2309013867941  tvshow: -460.3654177431222 => city
+Tweet: 257509781	Join the Envision team! See our latest #job opening here: https://t.co/iuSMypbtOc #Python #Relocate #NYC\u2026 https://t.co/dQa4tZMHSL
+  city: -459.45934917241163  label: -575.2471163173794  tvshow: -583.0340279745383 => city
+Tweet: 828991740052963328	RT @EnvisionJobs: Join the Envision team! See our latest #job opening here: https://t.co/iuSMypbtOc #Python #Relocate #NYC\u2026 
+  city: -463.94215457915305  label: -583.9614830591217  tvshow: -589.5799009164766 => city
+Tweet: 385109075	Haben mit #DFKI ja auch f\xfchrende Forscher/ung hier. Nur Wissen und bahnbrechende Produkte sind zwei verschiedene Di\u2026 https://t.co/AETA8yWOKQ
+  city: -245.8849340499025  label: -248.16542659576868  tvshow: -299.7917151544961 => city
+Tweet: 13588362	Nueva serie favorita.\n\n#siliconValley #hbo #series https://t.co/ffub8CfDKv
+  city: -236.6335015900048  label: -238.47211201987835  tvshow: -201.8455244791904 => tvshow
+Tweet: 945854930	Sharing one of my fav scenes before the new season arrives https://t.co/oVL0Bm8t1c
+  city: -576.2564547313514  label: -534.9194186535268  tvshow: -467.16158552746435 => tvshow
+Tweet: 945854930	"RT @lyricstothego: ""It's Apple Maps bad."" This scene is just GOLDEN. #SiliconValley https://t.co/ClyTIwhMx8"
+  city: -382.2352541192986  label: -443.7435919052858  tvshow: -390.907726928527 => city
+Tweet: 1531103712	@briansin @alexrkonrad The #SiliconValley \nHype about #VR \nwithout Ever Mentioning\nthe Dangers is a Very Big Proble\u2026 https://t.co/cJigt6XmyJ
+  city: -228.3055599649045  label: -284.10977345175803  tvshow: -228.4922059576046 => city
+Tweet: 1531103712	RT @MadeinMenlo: @briansin @alexrkonrad The #SiliconValley \nHype about #VR \nwithout Ever Mentioning\nthe Dangers is a Very Big Proble\u2026 
+  city: -296.4275064630266  label: -348.16100087653984  tvshow: -328.4164533145048 => city
+Tweet: 260515872	@StanfordMedX @drnehasangwan Spot on advice for #SiliconValley
+  city: -213.51586882551234  label: -222.07631786816876  tvshow: -260.4045708133492 => city
+Tweet: 472275571	RT @lyricstothego: Sharing one of my fav scenes before the new season arrives https://t.co/oVL0Bm8t1c
+  city: -585.7812352637943  label: -554.563542941468  tvshow: -479.37616025596816 => tvshow
+Tweet: 995774754	"RT @lyricstothego: ""It's Apple Maps bad."" This scene is just GOLDEN. #SiliconValley https://t.co/ClyTIwhMx8"
+  city: -382.2352541192986  label: -443.7435919052858  tvshow: -390.907726928527 => city
+Tweet: 296818308	\xa1El fin de semana se disfruta en DIRECTV!\n\u2705#NinjaTurtles: Fuera de las sombras \U0001f422\n\u2705#BuenosVecinos2 \U0001f3e0\n\u2705#ElCl\xe1sico \u26bd\n\u2705\u2026 https://t.co/L1dA53XjPO
+  city: -510.6092754212503  label: -507.1520886234501  tvshow: -649.0803186600552 => label
+Tweet: 17496334	Silicon Valley is trying to be better to #women\u2026 they really are.\nhttps://t.co/g2XLBvvOay #SiliconValley #careers\u2026 https://t.co/N2PHNEoG1i
+  city: -309.28149687179206  label: -391.88033351984836  tvshow: -350.37520478692574 => city
+Tweet: 112509659	#SiliconValley is the new #WallStreet #culture https://t.co/kNhzoZQ2jb
+  city: -169.72378128482495  label: -209.3829215517882  tvshow: -208.56604755431215 => city
+Tweet: 188917389	"RT @lyricstothego: ""It's Apple Maps bad."" This scene is just GOLDEN. #SiliconValley https://t.co/ClyTIwhMx8"
+  city: -382.2352541192986  label: -443.7435919052858  tvshow: -390.907726928527 => city
+Tweet: 239193107	RT @erniereyesjr: To All My Bay Area Folks! I'll be at the @SVComicCon today and tomorrow. Come say what's up! #SiliconValley #BayArea
+  city: -659.5641303436685  label: -762.8638497998909  tvshow: -719.0741781224284 => city
+Tweet: 2885651399	RT @WesHellyar: On the back of the #facebook sign outside their HQ in #SiliconValley is the old @sunmicrosystems sign. \n\nThis to re\u2026 
+  city: -504.38217746275666  label: -551.1148441226532  tvshow: -545.7873835526357 => city
+Tweet: 3127288690	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 4665199873	RT @RydenGo: LA Times story- CA Gov trying to shutdown RydenGo #rideshare #startups #ridesharing #siliconvalley #tech #news #Aclu https://t\u2026
+  city: -634.2581642718746  label: -834.3636975419055  tvshow: -993.5134422775433 => city
+Tweet: 4665199873	RT @gabriellia_gado: @RydenGo A violation of RydenGo's free speech by CA gov. #siliconvalley would never survive with this attitude. @TechC\u2026
+  city: -877.7016564939796  label: -876.9412333816442  tvshow: -1035.8459151328113 => label
+Tweet: 64677995	RT @jdsoubeyran: Silicon Valley S4 en approche !  Un nouveau d\xe9part...  https://t.co/ZBdFqnGMe5 #SiliconValley #HBO sur @OCStv
+  city: -367.66087936050667  label: -390.28157284426703  tvshow: -369.227177215173 => city
+Tweet: 4665480973	RT @RydenGo: LA Times story- CA Gov trying to shutdown RydenGo #rideshare #startups #ridesharing #siliconvalley #tech #news #Aclu https://t\u2026
+  city: -634.2581642718746  label: -834.3636975419055  tvshow: -993.5134422775433 => city
+Tweet: 4665480973	RT @gabriellia_gado: @RydenGo A violation of RydenGo's free speech by CA gov. #siliconvalley would never survive with this attitude. @TechC\u2026
+  city: -877.7016564939796  label: -876.9412333816442  tvshow: -1035.8459151328113 => label
+Tweet: 120175690	Signs pt 2 #marchforscience #dtsj #science #siliconvalley #norcal https://t.co/PX9asCdut0
+  city: -505.3175380591158  label: -463.3724765292286  tvshow: -574.4604975652514 => label
+Tweet: 1671360042	Ready #AR #VR fans? Our #SiliconValley chapter is hosting a FREE #Meetup! RSVP today: https://t.co/gnTQ0LtbL8\u2026 https://t.co/rohuLvhqZu
+  city: -638.4108624797581  label: -719.1147393200829  tvshow: -811.0657212960886 => city
+Tweet: 45547881	RT @dchungyalpa: Awesome signs. Keep your #tinyhands off the data! @ScienceMarchSV #marchforscience #SiliconValley https://t.co/pGG29XVeNL
+  city: -588.111933946561  label: -555.5570767047244  tvshow: -587.6372992801394 => label
+Tweet: 4760518718	Looking forward to meeting all the #tech #enthusiasts next Thursday :) #SiliconValley #SanJose #AR #VR #TechInMotion https://t.co/MJEJVQzHYl
+  city: -434.25964650937823  label: -550.3924224961676  tvshow: -574.3549528412228 => city
+Tweet: 807727266092326913	Great turn out in #SiliconValley #marchforscience @CalPirateParty https://t.co/bWwHoXeQNZ
+  city: -244.60387134168192  label: -264.2464293564701  tvshow: -260.04816678789234 => city
+Tweet: 598872434	Taking the science out of the lab! Science in the streets! #marchforscience #siliconvalley @\u2026 https://t.co/aXyDSZtIR3
+  city: -352.84489334392885  label: -373.129282196179  tvshow: -446.6493551385692 => city
+Tweet: 3588642732	#Ghostheads at @SVComicCon #SacramentoGhostbusters #ghostbusters #SiliconValleyComicCon #SiliconValley https://t.co/cJnXqDHS0Y
+  city: -143.10289354800463  label: -173.50048317764757  tvshow: -214.23203701916452 => city
+Tweet: 2314666947	#R2D2 #StarWars #Jedi #TheForce  #StormTrooper \n#SiliconValley #ComicCon #2017\n#Actor\u2026 https://t.co/tZHTVPB68q
+  city: -398.75649813855324  label: -406.35312510302515  tvshow: -463.4336508860832 => city
+Tweet: 2314666947	#R2D2#StarWars #TheForce #StormTrooper \n#SiliconValley #ComicCon #2017\n#Actor #ActorsLife\u2026 https://t.co/TrsdAWkOGn
+  city: -285.3110466360144  label: -324.84090832097286  tvshow: -346.6870809216806 => city
+Tweet: 2943304486	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 24221595	Open house today and tomorrow 1-4pm\n2124 Panama ave San Jose 95122\n\n#realestatelife #siliconvalley #re\nalestateinvesting #reside #realestat\u2026
+  city: -631.619547554955  label: -648.3476466731022  tvshow: -640.6354831280112 => city
+Tweet: 840879750071607297	The New #SiliconValley - #Shenzhen #China . #world #economics #finance  https://t.co/xkcZsPJ6Gu
+  city: -261.5533506267078  label: -351.5852705988658  tvshow: -410.22157482326895 => city
+Tweet: 3742676539	Less than a week until the #SiliconValley IAM User Group meetup. Details: https://t.co/vqd0KcE4GO
+  city: -392.17311134884  label: -476.9797050764182  tvshow: -492.436093474502 => city
+Tweet: 243275901	RT @GemMar333: @LGBTfdn @LALGBTCenter @LGBTCenterNYC https://t.co/179uhjwDqD
+  city: -21.697185453493834  label: -46.030893580904134  tvshow: -25.900031651986662 => city
+Tweet: 973635391	"\U0001f44b Hey @G2Crowd
+  city: -46.163174294526186  label: -50.9412215695051  tvshow: -39.256176288609815 => tvshow
+Tweet: 189629025	Great idea for a #tech #startup. Seeking #investment. @rklau @GVteam @GoogleSmallBiz @500Startups #logistics #SiliconValley #SanFrancisco DM
+  city: -295.9505420683388  label: -366.1414335444417  tvshow: -384.09800532003493 => city
+Tweet: 3065731116	Same in DC https://t.co/PDzX62aYP3
+  city: -149.13999212117446  label: -163.35596629909423  tvshow: -175.67928071327898 => city
+Tweet: 35203319	Is the #SiliconValley Dynasty Coming to an End? https://t.co/oC0j6ZUYPu https://t.co/9pdGChwjBh
+  city: -119.63835732986864  label: -159.6780548681828  tvshow: -123.99900959341032 => city
+Tweet: 257509781	"If you're looking for work in MO
+  city: -208.80239973414933  label: -223.15918407966552  tvshow: -195.89419624886105 => tvshow
+Tweet: 77898640	The latest Midday Silicon Valley! https://t.co/TQjJCz7Cdb Thanks to @marco_issa @triciab09 @PoepoeTw #fdecausans #siliconvalley
+  city: -304.3865196642572  label: -360.8426915178576  tvshow: -386.9348106070665 => city
+Tweet: 138039964	Just started watching @SiliconHBO why didn't anyone tell me about this show earlier\U0001f481\u200d\u2642\ufe0f I'm in love with this! #SiliconValley
+  city: -601.7746944845815  label: -631.3710918495844  tvshow: -474.1419377745983 => tvshow
+Tweet: 2795237280	I think I screwed up. Need a bit of advice. https://t.co/Pmfc6Ff2V3 #smallbusiness #startups #siliconvalley
+  city: -325.0858076085502  label: -417.42032616485335  tvshow: -365.34544658361085 => city
+Tweet: 2795237280	VIVAHR Free ATS (Free Applicant Tracking System) https://t.co/kLniUTkwoU #smallbusiness #startups #siliconvalley
+  city: -410.3756274078372  label: -424.55065506239646  tvshow: -430.0820020293344 => city
+Tweet: 2795237280	Independent B2B consultants/service providers - Can I get your opinion? https://t.co/8nsR54Xaq9 #smallbusiness #startups #siliconvalley
+  city: -497.1213051014655  label: -568.8237497019303  tvshow: -627.0629436007117 => city
+Tweet: 727253086717227012	evankirstel: Is the #SiliconValley Dynasty Coming to an End? https://t.co/FmzSXeJWHr https://t.co/PeeK1kZDm2
+  city: -200.06935506195555  label: -235.01954067084552  tvshow: -231.90749731128238 => city
+Tweet: 1465173126	RT @UrbanGkz: .@UrbanGeekz is pleased to announce we're one of the Media Partners 4 the 2017 #CultureShifting W/End\u2026 
+  city: -679.4678430815195  label: -724.5720173638263  tvshow: -831.8907114754901 => city
+Tweet: 126371773	"Can you recommend anyone for this #job in #SiliconValley
+  city: -230.94561839567302  label: -269.5078533089011  tvshow: -260.79131269656625 => city
+Tweet: 497067921	"Wearing my #Hooli shirt this today in my own tiny ""celebration"" that S4 of @SiliconHBO premieres tomorrow night! #SiliconValley #HBO"
+  city: -913.0462698492084  label: -817.7887917041232  tvshow: -711.7299419661949 => tvshow
+Tweet: 126371773	"Want to work in #SiliconValley
+  city: -80.99724022198754  label: -108.64196745154548  tvshow: -85.08530143267117 => city
+Tweet: 561676909	#SiliconValley may finally be making #urbanfarming viable. But will residents be able to afford the crop?\u2026 https://t.co/toVPM5TtrC
+  city: -464.55439329180786  label: -476.15015795109355  tvshow: -516.2081656140465 => city
+Tweet: 495490759	RT @Misruption_Org: Is the #SiliconValley Dynasty Coming to an End? https://t.co/XZipi8hytp
+  city: -124.12116273661012  label: -168.39242160992504  tvshow: -130.54488253534856 => city
+Tweet: 3164788032	I'm not a woman engineer. I'm an engineer. #SiliconValley https://t.co/Rwt7euHUUq
+  city: -206.00862762245387  label: -237.2021216248723  tvshow: -184.26110651280243 => tvshow
+Tweet: 2303373960	Staffelstart: 4.Staffel von Silicon Valley startet heute https://t.co/lZM7q2Eirz #SiliconValley
+  city: -91.96667784806093  label: -149.87649941135996  tvshow: -98.95188792579663 => city
+Tweet: 3028115003	8 Great Michael Dell Business Quotes https://t.co/hZPux2axXR &lt;--- Read #Dell #SiliconValley #Tech #Computer #Startup https://t.co/30DzHvDbdD
+  city: -494.4662703196892  label: -646.7860501892729  tvshow: -670.2105003952814 => city
+Tweet: 3164788032	"Jared: I simply imagine that my skeleton is me
+  city: -396.3913360121676  label: -346.40055118646376  tvshow: -277.3063022287634 => tvshow
+Tweet: 806913488010387459	The New #SiliconValley - #Shenzhen #China . #world #economics #finance  https://t.co/H4vvnQnDWL
+  city: -261.5533506267078  label: -351.5852705988658  tvshow: -410.22157482326895 => city
+Tweet: 3164788032	"Have any of you ever eaten at ""Burger King""? #S01E03 #SiliconValley https://t.co/Zud1B8yzQe"
+  city: -500.63487423399334  label: -471.9747829227173  tvshow: -383.1760039432842 => tvshow
+Tweet: 15817203	"An extreme
+  city: -46.54146350953829  label: -56.64574618149566  tvshow: -81.13135467099579 => city
+Tweet: 602170659	A top #SiliconValley dealmaker is predicting a big year for tech M&amp;A - Business Insider https://t.co/2d4G8bx7rE
+  city: -567.0820886547167  label: -628.1705225656218  tvshow: -718.8905137129303 => city
+Tweet: 17581126	Hooli shit #SiliconValley
+  city: -117.26217665781728  label: -117.4315816261668  tvshow: -86.69944573871578 => tvshow
+Tweet: 1418600322	#SiliconValley execs hiring philosophers to teach them to question everything https://t.co/95W1DxLyv3 via @qz #philosophy #criticalthinking
+  city: -645.8010449025824  label: -689.8919768053236  tvshow: -813.353100032542 => city
+Tweet: 4725794172	Good to see more media outlets focused on diversity within the tech space. #BLNDED #CultureShifting #Media https://t.co/fPtAmMc1On
+  city: -510.2692413807295  label: -602.683289297777  tvshow: -595.4492369357747 => city
+Tweet: 734978646465646592	#amazon @Qualcomm #Apple #Microsoft #siliconValley has harmed the American economy &amp; plp &amp; this is what they get 4it https://t.co/qIJUdmiqJC
+  city: -525.3318756749862  label: -600.5679591980618  tvshow: -627.2326684667216 => city
+Tweet: 431209815	So much this. @kumailn #SiliconValley #TheBigSick https://t.co/cpezTwRhUq
+  city: -233.69316801344604  label: -258.5818080429713  tvshow: -236.59661155363182 => city
+Tweet: 368865847	Can't wait!!!!!\U0001f917#siliconvalley https://t.co/Cpi8dlDjJu
+  city: -116.44031999521812  label: -145.88630964823912  tvshow: -106.67515688583822 => tvshow
+Tweet: 588677683	"They are from #TheNetherlands and they are in #SiliconValley for their #YCombinator interviews.\n\nBe a pal
+  city: -262.3133977491382  label: -259.51435661878554  tvshow: -284.2178967591827 => label
+Tweet: 32403983	Time for these obnoxious megalomaniacs from Silico Valley be humbled and come down to reality.... They are for a ru\u2026 https://t.co/lun9Y2Y3il
+  city: -350.1296947621805  label: -387.32443596752046  tvshow: -329.8435455773536 => tvshow
+Tweet: 35203319	RT @blackhawkinc: Time for these obnoxious megalomaniacs from Silico Valley be humbled and come down to reality.... They are for a ru\u2026 
+  city: -347.4820703735725  label: -380.58179096249876  tvshow: -328.3726633823746 => tvshow
+Tweet: 82350646	Recommended Reading: Juicero and the Silicon Valley hype machine https://t.co/CJicQV0Kcs #SiliconValley
+  city: -254.9728872360736  label: -309.85623913500905  tvshow: -314.82751651088984 => city
+Tweet: 60980215	"RT @EW: 12 hints about season 4 of #SiliconValley involving needles
+  city: -363.78686983316015  label: -354.42964351334547  tvshow: -297.76047107150885 => tvshow
+Tweet: 806090889156169728	The New #SiliconValley - #Shenzhen #China . #world #economics #finance  https://t.co/jx8scep9rx
+  city: -261.5533506267078  label: -351.5852705988658  tvshow: -410.22157482326895 => city
+Tweet: 2463402292	RT @blackhawkinc: Time for these obnoxious megalomaniacs from Silico Valley be humbled and come down to reality.... They are for a ru\u2026 
+  city: -347.4820703735725  label: -380.58179096249876  tvshow: -328.3726633823746 => tvshow
+Tweet: 814235930219278336	RT @EctoFlapjack: #Ghostheads at @SVComicCon #SacramentoGhostbusters #ghostbusters #SiliconValleyComicCon #SiliconValley https://t.co/cJnXq\u2026
+  city: -152.6276740804476  label: -193.14460746558876  tvshow: -226.44661174766833 => city
+Tweet: 161369932	Los l\xedderes de las empresas tecnol\xf3gicas reconocieron un problema a solucionar: poca diversidad cultural y demogr\xe1fica #SiliconValley
+  city: -318.1937070339578  label: -306.6004695806277  tvshow: -375.7799074662863 => label
+Tweet: 2305574708	RT @SVTechEvents: Don't miss the @WomenWhoCode #SiliconValley meetup this coming Thursday: https://t.co/9Q2vCuSMTY
+  city: -396.5738646567403  label: -473.4910509574726  tvshow: -522.3720793662694 => city
+Tweet: 16617221	RT @OutsideComicCon: Happy to be bridging @SiliconHBO &amp; #SVCC with this #PrizeMoose drop! Get this Pied Piper shirt now in the conventio\u2026 
+  city: -557.2234546219441  label: -540.856579495724  tvshow: -491.67629378092545 => tvshow
+Tweet: 847639440965025794	@truckrogers1 @gearmeister Once again proof of behind the scenes censorship tactics being used by the #SiliconValley swamp!
+  city: -536.7526110459356  label: -526.8767719402532  tvshow: -527.1645409259276 => label
+Tweet: 18180867	#siliconvalley #tech #iphone #applewatch #airpods #apple #ipad #mac #fanboy #cupertino #california #vacation #goog\u2026\u2026 https://t.co/2f9J5XSYWw
+  city: -532.412752649963  label: -557.8157349953383  tvshow: -656.4055449211253 => city
+Tweet: 3164788032	"Erlich: We're trending up
+  city: -198.99338405252237  label: -189.9824228200078  tvshow: -143.90168364218607 => tvshow
+Tweet: 1130138412	RT @JulianaJai: Welcome #SiliconHoller \u2013 Former miners out to put #Kentucky on the #tech map https://t.co/lL0AM1kkXc | #Coding #SiliconVall\u2026
+  city: -385.88850692267897  label: -444.2309013867941  tvshow: -460.3654177431222 => city
+Tweet: 257509781	Join the Envision team! See our latest #job opening here: https://t.co/iuSMypbtOc #Python #Relocate #NYC\u2026 https://t.co/dQa4tZMHSL
+  city: -459.45934917241163  label: -575.2471163173794  tvshow: -583.0340279745383 => city
+Tweet: 828991740052963328	RT @EnvisionJobs: Join the Envision team! See our latest #job opening here: https://t.co/iuSMypbtOc #Python #Relocate #NYC\u2026 
+  city: -463.94215457915305  label: -583.9614830591217  tvshow: -589.5799009164766 => city
+Tweet: 385109075	Haben mit #DFKI ja auch f\xfchrende Forscher/ung hier. Nur Wissen und bahnbrechende Produkte sind zwei verschiedene Di\u2026 https://t.co/AETA8yWOKQ
+  city: -245.8849340499025  label: -248.16542659576868  tvshow: -299.7917151544961 => city
+Tweet: 13588362	Nueva serie favorita.\n\n#siliconValley #hbo #series https://t.co/ffub8CfDKv
+  city: -236.6335015900048  label: -238.47211201987835  tvshow: -201.8455244791904 => tvshow
+Tweet: 945854930	Sharing one of my fav scenes before the new season arrives https://t.co/oVL0Bm8t1c
+  city: -576.2564547313514  label: -534.9194186535268  tvshow: -467.16158552746435 => tvshow
+Tweet: 945854930	"RT @lyricstothego: ""It's Apple Maps bad."" This scene is just GOLDEN. #SiliconValley https://t.co/ClyTIwhMx8"
+  city: -382.2352541192986  label: -443.7435919052858  tvshow: -390.907726928527 => city
+Tweet: 1531103712	@briansin @alexrkonrad The #SiliconValley \nHype about #VR \nwithout Ever Mentioning\nthe Dangers is a Very Big Proble\u2026 https://t.co/cJigt6XmyJ
+  city: -228.3055599649045  label: -284.10977345175803  tvshow: -228.4922059576046 => city
+Tweet: 1531103712	RT @MadeinMenlo: @briansin @alexrkonrad The #SiliconValley \nHype about #VR \nwithout Ever Mentioning\nthe Dangers is a Very Big Proble\u2026 
+  city: -296.4275064630266  label: -348.16100087653984  tvshow: -328.4164533145048 => city
+Tweet: 260515872	@StanfordMedX @drnehasangwan Spot on advice for #SiliconValley
+  city: -213.51586882551234  label: -222.07631786816876  tvshow: -260.4045708133492 => city
+Tweet: 472275571	RT @lyricstothego: Sharing one of my fav scenes before the new season arrives https://t.co/oVL0Bm8t1c
+  city: -585.7812352637943  label: -554.563542941468  tvshow: -479.37616025596816 => tvshow
+Tweet: 995774754	"RT @lyricstothego: ""It's Apple Maps bad."" This scene is just GOLDEN. #SiliconValley https://t.co/ClyTIwhMx8"
+  city: -382.2352541192986  label: -443.7435919052858  tvshow: -390.907726928527 => city
+Tweet: 296818308	\xa1El fin de semana se disfruta en DIRECTV!\n\u2705#NinjaTurtles: Fuera de las sombras \U0001f422\n\u2705#BuenosVecinos2 \U0001f3e0\n\u2705#ElCl\xe1sico \u26bd\n\u2705\u2026 https://t.co/L1dA53XjPO
+  city: -510.6092754212503  label: -507.1520886234501  tvshow: -649.0803186600552 => label
+Tweet: 17496334	Silicon Valley is trying to be better to #women\u2026 they really are.\nhttps://t.co/g2XLBvvOay #SiliconValley #careers\u2026 https://t.co/N2PHNEoG1i
+  city: -309.28149687179206  label: -391.88033351984836  tvshow: -350.37520478692574 => city
+Tweet: 112509659	#SiliconValley is the new #WallStreet #culture https://t.co/kNhzoZQ2jb
+  city: -169.72378128482495  label: -209.3829215517882  tvshow: -208.56604755431215 => city
+Tweet: 188917389	"RT @lyricstothego: ""It's Apple Maps bad."" This scene is just GOLDEN. #SiliconValley https://t.co/ClyTIwhMx8"
+  city: -382.2352541192986  label: -443.7435919052858  tvshow: -390.907726928527 => city
+Tweet: 239193107	RT @erniereyesjr: To All My Bay Area Folks! I'll be at the @SVComicCon today and tomorrow. Come say what's up! #SiliconValley #BayArea
+  city: -659.5641303436685  label: -762.8638497998909  tvshow: -719.0741781224284 => city
+Tweet: 2885651399	RT @WesHellyar: On the back of the #facebook sign outside their HQ in #SiliconValley is the old @sunmicrosystems sign. \n\nThis to re\u2026 
+  city: -504.38217746275666  label: -551.1148441226532  tvshow: -545.7873835526357 => city
+Tweet: 3127288690	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 4665199873	RT @RydenGo: LA Times story- CA Gov trying to shutdown RydenGo #rideshare #startups #ridesharing #siliconvalley #tech #news #Aclu https://t\u2026
+  city: -634.2581642718746  label: -834.3636975419055  tvshow: -993.5134422775433 => city
+Tweet: 4665199873	RT @gabriellia_gado: @RydenGo A violation of RydenGo's free speech by CA gov. #siliconvalley would never survive with this attitude. @TechC\u2026
+  city: -877.7016564939796  label: -876.9412333816442  tvshow: -1035.8459151328113 => label
+Tweet: 64677995	RT @jdsoubeyran: Silicon Valley S4 en approche !  Un nouveau d\xe9part...  https://t.co/ZBdFqnGMe5 #SiliconValley #HBO sur @OCStv
+  city: -367.66087936050667  label: -390.28157284426703  tvshow: -369.227177215173 => city
+Tweet: 4665480973	RT @RydenGo: LA Times story- CA Gov trying to shutdown RydenGo #rideshare #startups #ridesharing #siliconvalley #tech #news #Aclu https://t\u2026
+  city: -634.2581642718746  label: -834.3636975419055  tvshow: -993.5134422775433 => city
+Tweet: 4665480973	RT @gabriellia_gado: @RydenGo A violation of RydenGo's free speech by CA gov. #siliconvalley would never survive with this attitude. @TechC\u2026
+  city: -877.7016564939796  label: -876.9412333816442  tvshow: -1035.8459151328113 => label
+Tweet: 120175690	Signs pt 2 #marchforscience #dtsj #science #siliconvalley #norcal https://t.co/PX9asCdut0
+  city: -505.3175380591158  label: -463.3724765292286  tvshow: -574.4604975652514 => label
+Tweet: 1671360042	Ready #AR #VR fans? Our #SiliconValley chapter is hosting a FREE #Meetup! RSVP today: https://t.co/gnTQ0LtbL8\u2026 https://t.co/rohuLvhqZu
+  city: -638.4108624797581  label: -719.1147393200829  tvshow: -811.0657212960886 => city
+Tweet: 45547881	RT @dchungyalpa: Awesome signs. Keep your #tinyhands off the data! @ScienceMarchSV #marchforscience #SiliconValley https://t.co/pGG29XVeNL
+  city: -588.111933946561  label: -555.5570767047244  tvshow: -587.6372992801394 => label
+Tweet: 4760518718	Looking forward to meeting all the #tech #enthusiasts next Thursday :) #SiliconValley #SanJose #AR #VR #TechInMotion https://t.co/MJEJVQzHYl
+  city: -434.25964650937823  label: -550.3924224961676  tvshow: -574.3549528412228 => city
+Tweet: 807727266092326913	Great turn out in #SiliconValley #marchforscience @CalPirateParty https://t.co/bWwHoXeQNZ
+  city: -244.60387134168192  label: -264.2464293564701  tvshow: -260.04816678789234 => city
+Tweet: 598872434	Taking the science out of the lab! Science in the streets! #marchforscience #siliconvalley @\u2026 https://t.co/aXyDSZtIR3
+  city: -352.84489334392885  label: -373.129282196179  tvshow: -446.6493551385692 => city
+Tweet: 3588642732	#Ghostheads at @SVComicCon #SacramentoGhostbusters #ghostbusters #SiliconValleyComicCon #SiliconValley https://t.co/cJnXqDHS0Y
+  city: -143.10289354800463  label: -173.50048317764757  tvshow: -214.23203701916452 => city
+Tweet: 2314666947	#R2D2 #StarWars #Jedi #TheForce  #StormTrooper \n#SiliconValley #ComicCon #2017\n#Actor\u2026 https://t.co/tZHTVPB68q
+  city: -398.75649813855324  label: -406.35312510302515  tvshow: -463.4336508860832 => city
+Tweet: 2314666947	#R2D2#StarWars #TheForce #StormTrooper \n#SiliconValley #ComicCon #2017\n#Actor #ActorsLife\u2026 https://t.co/TrsdAWkOGn
+  city: -285.3110466360144  label: -324.84090832097286  tvshow: -346.6870809216806 => city
+Tweet: 2943304486	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 24221595	Open house today and tomorrow 1-4pm\n2124 Panama ave San Jose 95122\n\n#realestatelife #siliconvalley #re\nalestateinvesting #reside #realestat\u2026
+  city: -631.619547554955  label: -648.3476466731022  tvshow: -640.6354831280112 => city
+Tweet: 840879750071607297	The New #SiliconValley - #Shenzhen #China . #world #economics #finance  https://t.co/xkcZsPJ6Gu
+  city: -261.5533506267078  label: -351.5852705988658  tvshow: -410.22157482326895 => city
+Tweet: 3742676539	Less than a week until the #SiliconValley IAM User Group meetup. Details: https://t.co/vqd0KcE4GO
+  city: -392.17311134884  label: -476.9797050764182  tvshow: -492.436093474502 => city
+Tweet: 243275901	RT @GemMar333: @LGBTfdn @LALGBTCenter @LGBTCenterNYC https://t.co/179uhjwDqD
+  city: -21.697185453493834  label: -46.030893580904134  tvshow: -25.900031651986662 => city
+Tweet: 973635391	"\U0001f44b Hey @G2Crowd
+  city: -46.163174294526186  label: -50.9412215695051  tvshow: -39.256176288609815 => tvshow
+Tweet: 189629025	Great idea for a #tech #startup. Seeking #investment. @rklau @GVteam @GoogleSmallBiz @500Startups #logistics #SiliconValley #SanFrancisco DM
+  city: -295.9505420683388  label: -366.1414335444417  tvshow: -384.09800532003493 => city
+Tweet: 3065731116	Same in DC https://t.co/PDzX62aYP3
+  city: -149.13999212117446  label: -163.35596629909423  tvshow: -175.67928071327898 => city
+Tweet: 35203319	Is the #SiliconValley Dynasty Coming to an End? https://t.co/oC0j6ZUYPu https://t.co/9pdGChwjBh
+  city: -119.63835732986864  label: -159.6780548681828  tvshow: -123.99900959341032 => city
+Tweet: 257509781	"If you're looking for work in MO
+  city: -208.80239973414933  label: -223.15918407966552  tvshow: -195.89419624886105 => tvshow
+Tweet: 77898640	The latest Midday Silicon Valley! https://t.co/TQjJCz7Cdb Thanks to @marco_issa @triciab09 @PoepoeTw #fdecausans #siliconvalley
+  city: -304.3865196642572  label: -360.8426915178576  tvshow: -386.9348106070665 => city
+Tweet: 138039964	Just started watching @SiliconHBO why didn't anyone tell me about this show earlier\U0001f481\u200d\u2642\ufe0f I'm in love with this! #SiliconValley
+  city: -601.7746944845815  label: -631.3710918495844  tvshow: -474.1419377745983 => tvshow
+Tweet: 2795237280	I think I screwed up. Need a bit of advice. https://t.co/Pmfc6Ff2V3 #smallbusiness #startups #siliconvalley
+  city: -325.0858076085502  label: -417.42032616485335  tvshow: -365.34544658361085 => city
+Tweet: 2795237280	VIVAHR Free ATS (Free Applicant Tracking System) https://t.co/kLniUTkwoU #smallbusiness #startups #siliconvalley
+  city: -410.3756274078372  label: -424.55065506239646  tvshow: -430.0820020293344 => city
+Tweet: 2795237280	Independent B2B consultants/service providers - Can I get your opinion? https://t.co/8nsR54Xaq9 #smallbusiness #startups #siliconvalley
+  city: -497.1213051014655  label: -568.8237497019303  tvshow: -627.0629436007117 => city
+Tweet: 727253086717227012	evankirstel: Is the #SiliconValley Dynasty Coming to an End? https://t.co/FmzSXeJWHr https://t.co/PeeK1kZDm2
+  city: -200.06935506195555  label: -235.01954067084552  tvshow: -231.90749731128238 => city
+Tweet: 1465173126	RT @UrbanGkz: .@UrbanGeekz is pleased to announce we're one of the Media Partners 4 the 2017 #CultureShifting W/End\u2026 
+  city: -679.4678430815195  label: -724.5720173638263  tvshow: -831.8907114754901 => city
+Tweet: 126371773	"Can you recommend anyone for this #job in #SiliconValley
+  city: -230.94561839567302  label: -269.5078533089011  tvshow: -260.79131269656625 => city
+Tweet: 497067921	"Wearing my #Hooli shirt this today in my own tiny ""celebration"" that S4 of @SiliconHBO premieres tomorrow night! #SiliconValley #HBO"
+  city: -913.0462698492084  label: -817.7887917041232  tvshow: -711.7299419661949 => tvshow
+Tweet: 126371773	"Want to work in #SiliconValley
+  city: -80.99724022198754  label: -108.64196745154548  tvshow: -85.08530143267117 => city
+Tweet: 561676909	#SiliconValley may finally be making #urbanfarming viable. But will residents be able to afford the crop?\u2026 https://t.co/toVPM5TtrC
+  city: -464.55439329180786  label: -476.15015795109355  tvshow: -516.2081656140465 => city
+Tweet: 495490759	RT @Misruption_Org: Is the #SiliconValley Dynasty Coming to an End? https://t.co/XZipi8hytp
+  city: -124.12116273661012  label: -168.39242160992504  tvshow: -130.54488253534856 => city
+Tweet: 3164788032	I'm not a woman engineer. I'm an engineer. #SiliconValley https://t.co/Rwt7euHUUq
+  city: -206.00862762245387  label: -237.2021216248723  tvshow: -184.26110651280243 => tvshow
+Tweet: 2303373960	Staffelstart: 4.Staffel von Silicon Valley startet heute https://t.co/lZM7q2Eirz #SiliconValley
+  city: -91.96667784806093  label: -149.87649941135996  tvshow: -98.95188792579663 => city
+Tweet: 3028115003	8 Great Michael Dell Business Quotes https://t.co/hZPux2axXR &lt;--- Read #Dell #SiliconValley #Tech #Computer #Startup https://t.co/30DzHvDbdD
+  city: -494.4662703196892  label: -646.7860501892729  tvshow: -670.2105003952814 => city
+Tweet: 3164788032	"Jared: I simply imagine that my skeleton is me
+  city: -396.3913360121676  label: -346.40055118646376  tvshow: -277.3063022287634 => tvshow
+Tweet: 806913488010387459	The New #SiliconValley - #Shenzhen #China . #world #economics #finance  https://t.co/H4vvnQnDWL
+  city: -261.5533506267078  label: -351.5852705988658  tvshow: -410.22157482326895 => city
+Tweet: 3164788032	"Have any of you ever eaten at ""Burger King""? #S01E03 #SiliconValley https://t.co/Zud1B8yzQe"
+  city: -500.63487423399334  label: -471.9747829227173  tvshow: -383.1760039432842 => tvshow
+Tweet: 15817203	"An extreme
+  city: -46.54146350953829  label: -56.64574618149566  tvshow: -81.13135467099579 => city
+Tweet: 602170659	A top #SiliconValley dealmaker is predicting a big year for tech M&amp;A - Business Insider https://t.co/2d4G8bx7rE
+  city: -567.0820886547167  label: -628.1705225656218  tvshow: -718.8905137129303 => city
+Tweet: 17581126	Hooli shit #SiliconValley
+  city: -117.26217665781728  label: -117.4315816261668  tvshow: -86.69944573871578 => tvshow
+Tweet: 1418600322	#SiliconValley execs hiring philosophers to teach them to question everything https://t.co/95W1DxLyv3 via @qz #philosophy #criticalthinking
+  city: -645.8010449025824  label: -689.8919768053236  tvshow: -813.353100032542 => city
+Tweet: 4725794172	Good to see more media outlets focused on diversity within the tech space. #BLNDED #CultureShifting #Media https://t.co/fPtAmMc1On
+  city: -510.2692413807295  label: -602.683289297777  tvshow: -595.4492369357747 => city
+Tweet: 734978646465646592	#amazon @Qualcomm #Apple #Microsoft #siliconValley has harmed the American economy &amp; plp &amp; this is what they get 4it https://t.co/qIJUdmiqJC
+  city: -525.3318756749862  label: -600.5679591980618  tvshow: -627.2326684667216 => city
+Tweet: 431209815	So much this. @kumailn #SiliconValley #TheBigSick https://t.co/cpezTwRhUq
+  city: -233.69316801344604  label: -258.5818080429713  tvshow: -236.59661155363182 => city
+Tweet: 368865847	Can't wait!!!!!\U0001f917#siliconvalley https://t.co/Cpi8dlDjJu
+  city: -116.44031999521812  label: -145.88630964823912  tvshow: -106.67515688583822 => tvshow
+Tweet: 588677683	"They are from #TheNetherlands and they are in #SiliconValley for their #YCombinator interviews.\n\nBe a pal
+  city: -262.3133977491382  label: -259.51435661878554  tvshow: -284.2178967591827 => label
+Tweet: 32403983	Time for these obnoxious megalomaniacs from Silico Valley be humbled and come down to reality.... They are for a ru\u2026 https://t.co/lun9Y2Y3il
+  city: -350.1296947621805  label: -387.32443596752046  tvshow: -329.8435455773536 => tvshow
+Tweet: 35203319	RT @blackhawkinc: Time for these obnoxious megalomaniacs from Silico Valley be humbled and come down to reality.... They are for a ru\u2026 
+  city: -347.4820703735725  label: -380.58179096249876  tvshow: -328.3726633823746 => tvshow
+Tweet: 82350646	Recommended Reading: Juicero and the Silicon Valley hype machine https://t.co/CJicQV0Kcs #SiliconValley
+  city: -254.9728872360736  label: -309.85623913500905  tvshow: -314.82751651088984 => city
+Tweet: 60980215	"RT @EW: 12 hints about season 4 of #SiliconValley involving needles
+  city: -363.78686983316015  label: -354.42964351334547  tvshow: -297.76047107150885 => tvshow
+Tweet: 806090889156169728	The New #SiliconValley - #Shenzhen #China . #world #economics #finance  https://t.co/jx8scep9rx
+  city: -261.5533506267078  label: -351.5852705988658  tvshow: -410.22157482326895 => city
+Tweet: 2463402292	RT @blackhawkinc: Time for these obnoxious megalomaniacs from Silico Valley be humbled and come down to reality.... They are for a ru\u2026 
+  city: -347.4820703735725  label: -380.58179096249876  tvshow: -328.3726633823746 => tvshow
+Tweet: 814235930219278336	RT @EctoFlapjack: #Ghostheads at @SVComicCon #SacramentoGhostbusters #ghostbusters #SiliconValleyComicCon #SiliconValley https://t.co/cJnXq\u2026
+  city: -152.6276740804476  label: -193.14460746558876  tvshow: -226.44661174766833 => city
+Tweet: 161369932	Los l\xedderes de las empresas tecnol\xf3gicas reconocieron un problema a solucionar: poca diversidad cultural y demogr\xe1fica #SiliconValley
+  city: -318.1937070339578  label: -306.6004695806277  tvshow: -375.7799074662863 => label
+Tweet: 257509781	Can you recommend anyone for this #job? Python Developer - https://t.co/iuSMypbtOc #Python #Relocate #NYC\u2026 https://t.co/90zS5bJ24c
+  city: -484.9030643497457  label: -543.3092718202853  tvshow: -629.0112764708158 => city
+Tweet: 24312698	Yes! Season premier of @SiliconHBO tomorrow night! New Interwebs time. #siliconvalley #SiliconValleyHBO
+  city: -455.4131668821813  label: -429.20000911131416  tvshow: -334.95294902858484 => tvshow
+Tweet: 229157695	RT @tvshowtime: Silicon Valley is back tomorrow! #siliconvalley #tvshowtime https://t.co/yft7HKhR7m
+  city: -157.0828338583015  label: -228.8500025453789  tvshow: -164.01420727859545 => city
+Tweet: 778632611052654596	#seraQetra Today\u2019s #MotivationalVideo\nA Wolf Among Sheep\nhttps://t.co/AvpOlm4zvz\n#SiliconValley #jetsettering\u2026 https://t.co/qhvIPM6H98
+  city: -343.96578999680753  label: -377.1960045755426  tvshow: -426.7636760340138 => city
+Tweet: 2795237280	How to streamline the shipping process for an ecommerce website? https://t.co/xWcQqQeokU #smallbusiness #startups #siliconvalley
+  city: -434.3428543408844  label: -468.1655546182562  tvshow: -550.6478230486202 => city
+Tweet: 1309003092	RT @foodfuelfuture: #SiliconValley may finally be making #urbanfarming viable. But will residents be able to afford the crop?\u2026 
+  city: -461.9067689031999  label: -469.40751294607185  tvshow: -514.7372834190675 => city
+Tweet: 838788637215047681	RT @foodfuelfuture: #SiliconValley may finally be making #urbanfarming viable. But will residents be able to afford the crop?\u2026 
+  city: -461.9067689031999  label: -469.40751294607185  tvshow: -514.7372834190675 => city
+Tweet: 787429086066991104	RT @NikoPaulanne: 5 #Startup Lessons from #SiliconValley https://t.co/BUQDr3P6kZ via @startupsco https://t.co/5EegWFfaVL
+  city: -199.25355795696458  label: -316.9982715850991  tvshow: -293.7286368772188 => city
+Tweet: 829681587243462656	@imslp Plenty of them around my neck of the woods. I'll ask around.  @siliconvalley.
+  city: -458.88761946741727  label: -435.599267130172  tvshow: -367.6524973810983 => tvshow
+Tweet: 3381492807	"Silicon Valley Etiquette - California is for sure the ""Land of The Cool"" https://t.co/zNSF2TS9CO #SiliconValley"
+  city: -300.11565737060647  label: -343.8056046640374  tvshow: -298.13934853858024 => tvshow
+Tweet: 1465173126	RT @blnded: Good to see more media outlets focused on diversity within the tech space. #BLNDED #CultureShifting #Media https://t.co/fPtAmMc\u2026
+  city: -519.7940219131724  label: -622.3274135857182  tvshow: -607.6638116642786 => city
+Tweet: 2620106227	RT @FrugalNutrition: 8 Great Michael Dell Business Quotes https://t.co/hZPux2axXR &lt;--- Read #Dell #SiliconValley #Tech #Computer #Startup h\u2026
+  city: -543.4917498449037  label: -711.7900134383773  tvshow: -738.4457613827192 => city
+Tweet: 30075656	#MarchaPorLaCiencia #SiliconValley #marchforscience  #ciencia #EarthDay https://t.co/AjvDlzu4Ok
+  city: -130.73005489594232  label: -118.85337860174315  tvshow: -135.96325388962018 => label
+Tweet: 818669827237806082	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 311664727	Just hanging out with my #SiliconValley peeps today. https://t.co/SX8tcR8r2V
+  city: -318.18440696377803  label: -344.9329832172532  tvshow: -303.43686537020267 => tvshow
+Tweet: 812933762690355200	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 757890909136642048	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 108593067	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 3016729079	"#SVCC has over 100
+  city: -257.27783600361886  label: -245.4933446625904  tvshow: -257.42193896640293 => label
+Tweet: 24406283	#marchforscience #siliconvalley #sanjose https://t.co/GDBJm912PC https://t.co/1fh2spTTur
+  city: -167.34543575907767  label: -175.51289778876605  tvshow: -207.12879808363485 => city
+Tweet: 2795237280	How to structure an investment vehicle for small business owners? https://t.co/gYQXfpG0Mv #smallbusiness #startups #siliconvalley
+  city: -402.5316153875461  label: -482.61113448662906  tvshow: -528.3221898092941 => city
+Tweet: 3439603811	#Entrepreneur is a #French Word. \U0001f1eb\U0001f1f7\n#SF #sanfrancisco #SiliconValley #FrenchTech #startup #techcrunch #alphabetinc https://t.co/KY4Wwd7p0k
+  city: -453.236356945289  label: -512.8248763167866  tvshow: -550.1765654459765 => city
+Tweet: 847812401005080576	$ARYC #shorts are going to get their #squeeze very soon. #pennystocks #SiliconValley #biotechstock #pharmastock\u2026 https://t.co/5hCYtQkH9f
+  city: -480.2809645531167  label: -562.6819295113044  tvshow: -629.9043073475289 => city
+Tweet: 950712950	ARYC.... short squeeeeeeeeze!!\n\nhttps://t.co/5UZKibvNIP https://t.co/5yILunF7EP
+  city: -188.21797951586677  label: -222.84609919142275  tvshow: -236.15787981093797 => city
+Tweet: 4097864180	RT @mdang01: How to structure an investment vehicle for small business owners? https://t.co/gYQXfpG0Mv #smallbusiness #startups #siliconval\u2026
+  city: -482.8440893823135  label: -565.2700351650584  tvshow: -640.9485126522046 => city
+Tweet: 727997905517207552	"Steve ""The Woz"" Wozniak leads fundraising 4 local San Jose #dogpark https://t.co/zmiAgQEYVB  @apple #bayarea #tech\u2026 https://t.co/XbuyUfqlC6"
+  city: -476.6028293662019  label: -554.9243833756902  tvshow: -632.8901301376592 => city
+Tweet: 138526255	@DmvStartup WATCH: How a liberal arts education pays off in #SiliconValley\nhttps://t.co/qaXnVLvLcE via salon https://t.co/f9T47aEhbH
+  city: -520.9261185558115  label: -593.6998830560179  tvshow: -698.8297492642566 => city
+Tweet: 4916781792	RT @UndervaluedSto1: $ARYC #shorts are going to get their #squeeze very soon. #pennystocks #SiliconValley #biotechstock #pharmastock\u2026 
+  city: -477.63334016450875  label: -555.9392845062827  tvshow: -628.43342515255 => city
+Tweet: 844937888173314049	RT @UndervaluedSto1: $ARYC #shorts are going to get their #squeeze very soon. #pennystocks #SiliconValley #biotechstock #pharmastock\u2026 
+  city: -477.63334016450875  label: -555.9392845062827  tvshow: -628.43342515255 => city
+Tweet: 97397181	RT @tinaudacity: Rephrase! Being a #unicorn is getting too complicated. Time to be a person :) #happyfriday #SiliconValley #unicorny https:\u2026
+  city: -335.4612616354796  label: -372.54842919493  tvshow: -299.9853273372435 => tvshow
+Tweet: 82350646	HBO\u2019s \u201cSilicon Valley\u201d cast hints about upcoming season #SiliconValley  https://t.co/KF6GAvR1Aq
+  city: -300.64143267286687  label: -310.1644326854127  tvshow: -235.88451607875493 => tvshow
+Tweet: 787083313433501697	RT @blackhawkinc: Time for these obnoxious megalomaniacs from Silico Valley be humbled and come down to reality.... They are for a ru\u2026 
+  city: -347.4820703735725  label: -380.58179096249876  tvshow: -328.3726633823746 => tvshow
+Tweet: 17780767	"RT @SiliconVallism: Erlich: We're trending up
+  city: -295.6933126810403  label: -272.26316651843064  tvshow: -209.6990771289586 => tvshow
+Tweet: 1629791772	today iz the day when they're returning to make a scene\uff01\n\U0001f525\U0001f525\U0001f525\U0001f525\U0001f525\U0001f525\U0001f525\U0001f525\U0001f525\n\U0001f47e\U0001f47e\U0001f47e\U0001f47e\U0001f47e\U0001f47e\U0001f47e\U0001f47e\U0001f47e\n\n#siliconvalley\u2026 https://t.co/KBAWAo85HT
+  city: -514.8091893320898  label: -562.3229526460223  tvshow: -493.82951602281406 => tvshow
+Tweet: 72079436	#CineTV \u2018#SiliconValley': Thomas Middledtich on Season 4 and Why You Won\u2019t See a Blooper Reel\u2026 https://t.co/HpSjtl0Wn0
+  city: -343.3600960389317  label: -371.6492348948683  tvshow: -317.71725907342375 => tvshow
+Tweet: 1454295955	RT @foodfuelfuture: #SiliconValley may finally be making #urbanfarming viable. But will residents be able to afford the crop?\u2026 
+  city: -461.9067689031999  label: -469.40751294607185  tvshow: -514.7372834190675 => city
+Tweet: 845834664069623808	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 839078820506390529	RT @JacquiSpence_: By @aprilaser for @recode\n.\n#recode #siliconvalley #MergersAndAcquisitions #mergers #transactions #gigeconomy\u2026 
+  city: -640.3065011483508  label: -667.3029508834102  tvshow: -834.5328651378795 => city
+Tweet: 844998223416614916	"RT @BarkowConsult: Poverty  in Plenty\n\nIn SanFran
+  city: -310.33212172757067  label: -310.48969020221136  tvshow: -373.7149776549633 => city
+Tweet: 511937009	5 #Startup Lessons from #SiliconValley https://t.co/D6E2nl1PiD via @startupsco https://t.co/19XXNPfmp2
+  city: -189.7287774245216  label: -297.35414729715785  tvshow: -281.51406214871497 => city
+Tweet: 39755667	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 746541199457017857	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 829483561	@SiliconHBO Season 4 Ep 1 coming tonight! So excited!! Whooo @HBO \n#SiliconValley #SiliconValleyHBO #HBO #TVShows @AmandaCCrew @nottjmiller
+  city: -792.7027801177077  label: -713.9653566132629  tvshow: -564.9929795261012 => tvshow
+Tweet: 3290881694	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 3266856037	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 2279758561	"The @CalCourts motto: ""any litigant who reports abuse is 'crazy' &amp; 'delusional' -feels like the 1950s here in\u2026 https://t.co/ESGIOX0qEo"
+  city: -592.5185570342703  label: -592.2688085635424  tvshow: -575.4355364215004 => tvshow
+Tweet: 786059588571455488	One sick twisted mofo. https://t.co/EEU5EQEOpl
+  city: -138.12812476198232  label: -150.10839806729916  tvshow: -137.6008058409283 => tvshow
+Tweet: 3084863170	"Isn't it weird
+  city: -151.2601568849606  label: -129.4488855313718  tvshow: -119.89880392714448 => tvshow
+Tweet: 29785176	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 796806998054449153	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 19331152	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 445580449	We're NOT betting on #TECH companies to revolutionise #TRANSPORTATION. #Tesla #SiliconValley #Detroit #Innovation\nhttps://t.co/Ku8NuvegWy
+  city: -363.8333845995406  label: -417.87777397048507  tvshow: -475.9234266126991 => city
+Tweet: 817419403	RT @VodafoneTV_es: #SiliconValley: cambiando la manera en que las cosas cambian \U0001f602 #Estreno T4 el lunes 24 en @HBO_ES con\u2026 
+  city: -324.9860873274174  label: -335.12376972314524  tvshow: -401.8070447242571 => city
+Tweet: 833763558538280962	RT @rn_deplorable: One sick twisted mofo. https://t.co/EEU5EQEOpl
+  city: -147.65290529442527  label: -169.75252235524036  tvshow: -149.8153805694321 => city
+Tweet: 788462102	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 795885534690373632	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 52437155	Two tweets. Same time. #deepstate sucks up to China at the cost of #SiliconValley. https://t.co/Xr1CMdaJQT https://t.co/F2llA0xxtu
+  city: -492.40635098796423  label: -519.9853937576513  tvshow: -509.20529343878115 => city
+Tweet: 17585730	RT @RajeevSrinivasa: Two tweets. Same time. #deepstate sucks up to China at the cost of #SiliconValley. https://t.co/Xr1CMdaJQT https://t.c\u2026
+  city: -547.1413886500197  label: -591.393393870111  tvshow: -575.9763458159752 => city
+Tweet: 47913110	Got this dope print from @ccaycoART \U0001f525\U0001f525#siliconvalley #siliconvalleycomiccon #svcc #dbz\u2026 https://t.co/gmMExLUGcn
+  city: -356.435493924642  label: -356.61319657964407  tvshow: -396.7949944974971 => city
+Tweet: 30266529	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 2561728285	Creature Feature \U0001f680\U0001f3a8\U0001f34e\U0001f5a5\U0001f459 #svcc #comicon #siliconvalley #cosplay #nerd #geek #gamer #tech #sunsets\u2026 https://t.co/1hhFVur7Sh
+  city: -371.38280075435273  label: -362.65992169142316  tvshow: -375.7895500721364 => label
+Tweet: 257509781	We're #hiring! Click to apply: Python Developer - https://t.co/iuSMypbtOc #Python #Relocate #NYC #SiliconValley #IT\u2026 https://t.co/Qf8yA5873g
+  city: -451.50381609868873  label: -515.253698827793  tvshow: -607.83142672155 => city
+Tweet: 3403020585	The #Apocalypse is Near: #SiliconValley Super #Rich Get Ready for #NuclearWar https://t.co/21IN53iHVm
+  city: -265.11973051631475  label: -315.75607341298934  tvshow: -283.28253944977564 => city
+Tweet: 148683294	"Ezt n\xe9ztem : Silicon Valley 1x04 ""Fiduciary Duties"" https://t.co/nt1VhT2Lcs #SiliconValley #trakt"
+  city: -220.88242674517457  label: -242.93157730835668  tvshow: -201.13685436809885 => tvshow
+Tweet: 148683294	"Silicon Valley 1x04 ""Fiduciary Duties"" \u2605\u2605\u2605\u2605\u2605\u2605\u2605\u2605\u2606\u2606 https://t.co/nt1VhT2Lcs #SiliconValley #trakt"
+  city: -155.23455378508746  label: -174.47339351538298  tvshow: -129.6797251797772 => tvshow
+Tweet: 3164788032	Gilfoyle: Says here that she's looking for a man on the go. You don't go anywhere. #SiliconValley #SiliconHBO #SiliconValleyHBO
+  city: -556.4568857930332  label: -553.2825929357299  tvshow: -405.7206493205572 => tvshow
+Tweet: 2459254184	RT @tvshowtime: Silicon Valley is back tomorrow! #siliconvalley #tvshowtime https://t.co/yft7HKhR7m
+  city: -157.0828338583015  label: -228.8500025453789  tvshow: -164.01420727859545 => city
+Tweet: 4120272800	RT @RajeevSrinivasa: Two tweets. Same time. #deepstate sucks up to China at the cost of #SiliconValley. https://t.co/Xr1CMdaJQT https://t.c\u2026
+  city: -547.1413886500197  label: -591.393393870111  tvshow: -575.9763458159752 => city
+Tweet: 4825711529	RT @SEEDSandCHIPS: La #SiliconValley del #food? \xc8 in Italia. @_MarcoGualtieri\n#SaC17 #FoodTech #FoodInnovation \nhttps://t.co/XOH69ngcXR via\u2026
+  city: -305.7190931239775  label: -351.4850549504651  tvshow: -399.41158040033986 => city
+Tweet: 15597707	Play By Day: Start der 4. Staffel Silicon Valley bei HBO #SiliconValley https://t.co/JSyoWMg28z https://t.co/FgjFQzCjLG
+  city: -302.4627594864862  label: -367.7161259512335  tvshow: -272.690216355507 => tvshow
+Tweet: 851318925883080704	#flowers https://t.co/IqL1VB0dMa a break from #videogames #lavender I think. #siliconvalley #local
+  city: -226.428469341206  label: -279.30813737871347  tvshow: -252.64108085498327 => city
+Tweet: 1970095128	"Bient\xf4t en format 30 min : #SiliconValley
+  city: -217.69121234005195  label: -215.88243873062225  tvshow: -280.90792712443834 => label
+Tweet: 23115658	"RT @haqsmusings: In #SiliconValley
+  city: -14.636979004795545  label: -30.598516814669143  tvshow: -17.74580173023839 => city
+Tweet: 2561728285	\U0001f680\U0001f3a8\U0001f34e\U0001f5a5\U0001f459 #svcc #comicon #siliconvalley #cosplay #nerd #geek #gamer #tech #sunsets #california #sky\u2026 https://t.co/Igy3cxDPHf
+  city: -427.36897369456267  label: -411.63377904930366  tvshow: -426.7496435147694 => label
+Tweet: 713576547802722304	5 #Startup Lessons from #SiliconValley https://t.co/8VsoInSshu via @startupsco https://t.co/639p8sOEnU
+  city: -189.7287774245216  label: -297.35414729715785  tvshow: -281.51406214871497 => city
+Tweet: 617105201	RT @FriendsofCoalKY: Two coal miners teamed up to create jobs for displaced workers. Could KY be the next #SiliconValley? Read more: https:\u2026
+  city: -373.8117041032089  label: -489.5863446175755  tvshow: -445.61767105741166 => city
+Tweet: 148683294	"Ezt n\xe9ztem : Silicon Valley 1x05 ""Signaling Risk"" https://t.co/3OAYObnnUZ #SiliconValley #trakt"
+  city: -441.4441369704513  label: -401.40839325457034  tvshow: -375.8811197987625 => tvshow
+Tweet: 127806182	#SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -343.5426234295791  label: -340.19768425543515  tvshow: -262.83953899900797 => tvshow
+Tweet: 851028728	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 813968075792011265	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 852712180818612224	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 856017325723725824	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 260104802	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 855447351103815687	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 829183223582359552	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 848131744763179008	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 809644019433107456	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 852222882449174528	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 851859868319449088	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 3125155301	RT @JoannMoretti: #Robots Inspire Next Generation at Blue Sky https://t.co/NN69HLwBGp #Robotics #STEM #SiliconValley @BlueSky_Center\u2026 
+  city: -551.6807115781426  label: -567.8071494973782  tvshow: -611.9870796526542 => city
+Tweet: 1906163570	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 805791290	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 724611831785000960	"RT @silicontalent: Opinion: Remembering Bob Taylor
+  city: -249.35738486660978  label: -247.291695057428  tvshow: -338.2647558826748 => label
+Tweet: 148683294	"Silicon Valley 1x05 ""Signaling Risk"" \u2605\u2605\u2605\u2605\u2605\u2605\u2605\u2605\u2606\u2606 https://t.co/3OAYObnnUZ #SiliconValley #trakt"
+  city: -375.79626401036415  label: -332.95020946159667  tvshow: -304.42399061044085 => tvshow
+Tweet: 849560216597352453	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 849556074965467136	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 849690549753982978	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 849947930077405184	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 849688472998875140	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 849949297240158208	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 849950880061431809	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 849946851633758209	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 849556606585012224	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 855575992915701761	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 20284575	"#ThomasMiddledtich on #SiliconValley S4
+  city: -90.94987777612444  label: -86.29587832939065  tvshow: -85.74084564246027 => tvshow
+Tweet: 767309184438329344	HBO\u2019s \u201cSilicon Valley\u201d cast hints about upcoming\xa0season https://t.co/H7Rbhb1OFb @techcrunch #tech #startups #SiliconValley #TV #incubator
+  city: -476.31221643219266  label: -526.365899348734  tvshow: -450.7783900127595 => tvshow
+Tweet: 1130138412	RT @VHyyrylainen: HBO\u2019s \u201cSilicon Valley\u201d cast hints about upcoming\xa0season https://t.co/H7Rbhb1OFb @techcrunch #tech #startups #SiliconValle\u2026
+  city: -350.3591319156062  label: -408.2302176531337  tvshow: -339.9692610982668 => tvshow
+Tweet: 20284575	"#ThomasMiddleditch on #SiliconValley S4
+  city: -198.0661364988623  label: -163.26047749355203  tvshow: -165.09461005501834 => label
+Tweet: 257509781	Want to work at Envision? We're #hiring in MO! Click for details: https://t.co/iuSMypbtOc #Python #Relocate #NYC\u2026 https://t.co/zATne0WhA1
+  city: -509.24973887047184  label: -576.7565731986849  tvshow: -602.4497377965558 => city
+Tweet: 185085429	#startup If U want #sales to Spiral -start with step 1-Responsive #webdesign #SiliconValley premium #webdesigner https://t.co/I8XPWe5ubC
+  city: -498.48138758714623  label: -560.640417330025  tvshow: -545.8709199206884 => city
+Tweet: 770166074474131456	#startup If U want #sales to Spiral -start with step 1-Responsive #webdesign #SiliconValley premium #webdesigner https://t.co/DGzpLhRjNG
+  city: -498.48138758714623  label: -560.640417330025  tvshow: -545.8709199206884 => city
+Tweet: 367266862	#SiliconValley-Konkurrenz? 7 neue Digital Hubs in Deutschland: https://t.co/rqdc455BeS via @heiseonline #digital #stuttgart #innovation
+  city: -287.6578005155741  label: -347.7396369020788  tvshow: -374.37559982120086 => city
+Tweet: 781356614615826432	RT @RottenTomatoes: #SiliconValley to return April 23. For more spring premiere dates: https://t.co/glYcLU67dE https://t.co/Afv6gHQhlc
+  city: -351.608222593161  label: -409.57739652178856  tvshow: -345.0824740829018 => tvshow
+Tweet: 39755667	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 746541199457017857	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 829483561	@SiliconHBO Season 4 Ep 1 coming tonight! So excited!! Whooo @HBO \n#SiliconValley #SiliconValleyHBO #HBO #TVShows @AmandaCCrew @nottjmiller
+  city: -792.7027801177077  label: -713.9653566132629  tvshow: -564.9929795261012 => tvshow
+Tweet: 3290881694	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 3266856037	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 2279758561	"The @CalCourts motto: ""any litigant who reports abuse is 'crazy' &amp; 'delusional' -feels like the 1950s here in\u2026 https://t.co/ESGIOX0qEo"
+  city: -592.5185570342703  label: -592.2688085635424  tvshow: -575.4355364215004 => tvshow
+Tweet: 786059588571455488	One sick twisted mofo. https://t.co/EEU5EQEOpl
+  city: -138.12812476198232  label: -150.10839806729916  tvshow: -137.6008058409283 => tvshow
+Tweet: 3084863170	"Isn't it weird
+  city: -151.2601568849606  label: -129.4488855313718  tvshow: -119.89880392714448 => tvshow
+Tweet: 29785176	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 796806998054449153	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 19331152	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 445580449	We're NOT betting on #TECH companies to revolutionise #TRANSPORTATION. #Tesla #SiliconValley #Detroit #Innovation\nhttps://t.co/Ku8NuvegWy
+  city: -363.8333845995406  label: -417.87777397048507  tvshow: -475.9234266126991 => city
+Tweet: 817419403	RT @VodafoneTV_es: #SiliconValley: cambiando la manera en que las cosas cambian \U0001f602 #Estreno T4 el lunes 24 en @HBO_ES con\u2026 
+  city: -324.9860873274174  label: -335.12376972314524  tvshow: -401.8070447242571 => city
+Tweet: 833763558538280962	RT @rn_deplorable: One sick twisted mofo. https://t.co/EEU5EQEOpl
+  city: -147.65290529442527  label: -169.75252235524036  tvshow: -149.8153805694321 => city
+Tweet: 788462102	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 795885534690373632	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 52437155	Two tweets. Same time. #deepstate sucks up to China at the cost of #SiliconValley. https://t.co/Xr1CMdaJQT https://t.co/F2llA0xxtu
+  city: -492.40635098796423  label: -519.9853937576513  tvshow: -509.20529343878115 => city
+Tweet: 17585730	RT @RajeevSrinivasa: Two tweets. Same time. #deepstate sucks up to China at the cost of #SiliconValley. https://t.co/Xr1CMdaJQT https://t.c\u2026
+  city: -547.1413886500197  label: -591.393393870111  tvshow: -575.9763458159752 => city
+Tweet: 47913110	Got this dope print from @ccaycoART \U0001f525\U0001f525#siliconvalley #siliconvalleycomiccon #svcc #dbz\u2026 https://t.co/gmMExLUGcn
+  city: -356.435493924642  label: -356.61319657964407  tvshow: -396.7949944974971 => city
+Tweet: 30266529	RT @BayAreaCT: 5 HORRIFIC\U0001f631 methods for killing #LGBT outlined @ pro-#Hezbollah SABA Islamic Center #SanJose #SiliconValley\u2026 
+  city: -447.45221511057974  label: -647.4102226783181  tvshow: -837.6796616169128 => city
+Tweet: 2561728285	Creature Feature \U0001f680\U0001f3a8\U0001f34e\U0001f5a5\U0001f459 #svcc #comicon #siliconvalley #cosplay #nerd #geek #gamer #tech #sunsets\u2026 https://t.co/1hhFVur7Sh
+  city: -371.38280075435273  label: -362.65992169142316  tvshow: -375.7895500721364 => label
+Tweet: 257509781	We're #hiring! Click to apply: Python Developer - https://t.co/iuSMypbtOc #Python #Relocate #NYC #SiliconValley #IT\u2026 https://t.co/Qf8yA5873g
+  city: -451.50381609868873  label: -515.253698827793  tvshow: -607.83142672155 => city
+Tweet: 3403020585	The #Apocalypse is Near: #SiliconValley Super #Rich Get Ready for #NuclearWar https://t.co/21IN53iHVm
+  city: -265.11973051631475  label: -315.75607341298934  tvshow: -283.28253944977564 => city
+Tweet: 148683294	"Ezt n\xe9ztem : Silicon Valley 1x04 ""Fiduciary Duties"" https://t.co/nt1VhT2Lcs #SiliconValley #trakt"
+  city: -220.88242674517457  label: -242.93157730835668  tvshow: -201.13685436809885 => tvshow
+Tweet: 148683294	"Silicon Valley 1x04 ""Fiduciary Duties"" \u2605\u2605\u2605\u2605\u2605\u2605\u2605\u2605\u2606\u2606 https://t.co/nt1VhT2Lcs #SiliconValley #trakt"
+  city: -155.23455378508746  label: -174.47339351538298  tvshow: -129.6797251797772 => tvshow
+Tweet: 3164788032	Gilfoyle: Says here that she's looking for a man on the go. You don't go anywhere. #SiliconValley #SiliconHBO #SiliconValleyHBO
+  city: -556.4568857930332  label: -553.2825929357299  tvshow: -405.7206493205572 => tvshow
+Tweet: 2459254184	RT @tvshowtime: Silicon Valley is back tomorrow! #siliconvalley #tvshowtime https://t.co/yft7HKhR7m
+  city: -157.0828338583015  label: -228.8500025453789  tvshow: -164.01420727859545 => city
+Tweet: 4120272800	RT @RajeevSrinivasa: Two tweets. Same time. #deepstate sucks up to China at the cost of #SiliconValley. https://t.co/Xr1CMdaJQT https://t.c\u2026
+  city: -547.1413886500197  label: -591.393393870111  tvshow: -575.9763458159752 => city
+Tweet: 4825711529	RT @SEEDSandCHIPS: La #SiliconValley del #food? \xc8 in Italia. @_MarcoGualtieri\n#SaC17 #FoodTech #FoodInnovation \nhttps://t.co/XOH69ngcXR via\u2026
+  city: -305.7190931239775  label: -351.4850549504651  tvshow: -399.41158040033986 => city
+Tweet: 15597707	Play By Day: Start der 4. Staffel Silicon Valley bei HBO #SiliconValley https://t.co/JSyoWMg28z https://t.co/FgjFQzCjLG
+  city: -302.4627594864862  label: -367.7161259512335  tvshow: -272.690216355507 => tvshow
+Tweet: 851318925883080704	#flowers https://t.co/IqL1VB0dMa a break from #videogames #lavender I think. #siliconvalley #local
+  city: -226.428469341206  label: -279.30813737871347  tvshow: -252.64108085498327 => city
+Tweet: 1970095128	"Bient\xf4t en format 30 min : #SiliconValley
+  city: -217.69121234005195  label: -215.88243873062225  tvshow: -280.90792712443834 => label
+Tweet: 23115658	"RT @haqsmusings: In #SiliconValley
+  city: -14.636979004795545  label: -30.598516814669143  tvshow: -17.74580173023839 => city
+Tweet: 2561728285	\U0001f680\U0001f3a8\U0001f34e\U0001f5a5\U0001f459 #svcc #comicon #siliconvalley #cosplay #nerd #geek #gamer #tech #sunsets #california #sky\u2026 https://t.co/Igy3cxDPHf
+  city: -427.36897369456267  label: -411.63377904930366  tvshow: -426.7496435147694 => label
+Tweet: 713576547802722304	5 #Startup Lessons from #SiliconValley https://t.co/8VsoInSshu via @startupsco https://t.co/639p8sOEnU
+  city: -189.7287774245216  label: -297.35414729715785  tvshow: -281.51406214871497 => city
+Tweet: 617105201	RT @FriendsofCoalKY: Two coal miners teamed up to create jobs for displaced workers. Could KY be the next #SiliconValley? Read more: https:\u2026
+  city: -373.8117041032089  label: -489.5863446175755  tvshow: -445.61767105741166 => city
+Tweet: 148683294	"Ezt n\xe9ztem : Silicon Valley 1x05 ""Signaling Risk"" https://t.co/3OAYObnnUZ #SiliconValley #trakt"
+  city: -441.4441369704513  label: -401.40839325457034  tvshow: -375.8811197987625 => tvshow
+Tweet: 127806182	#SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -343.5426234295791  label: -340.19768425543515  tvshow: -262.83953899900797 => tvshow
+Tweet: 851028728	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 813968075792011265	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 852712180818612224	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 856017325723725824	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 260104802	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 855447351103815687	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 829183223582359552	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 848131744763179008	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 809644019433107456	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 852222882449174528	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 851859868319449088	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 3125155301	RT @JoannMoretti: #Robots Inspire Next Generation at Blue Sky https://t.co/NN69HLwBGp #Robotics #STEM #SiliconValley @BlueSky_Center\u2026 
+  city: -551.6807115781426  label: -567.8071494973782  tvshow: -611.9870796526542 => city
+Tweet: 1906163570	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 805791290	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 724611831785000960	"RT @silicontalent: Opinion: Remembering Bob Taylor
+  city: -249.35738486660978  label: -247.291695057428  tvshow: -338.2647558826748 => label
+Tweet: 148683294	"Silicon Valley 1x05 ""Signaling Risk"" \u2605\u2605\u2605\u2605\u2605\u2605\u2605\u2605\u2606\u2606 https://t.co/3OAYObnnUZ #SiliconValley #trakt"
+  city: -375.79626401036415  label: -332.95020946159667  tvshow: -304.42399061044085 => tvshow
+Tweet: 849560216597352453	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 849556074965467136	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 849690549753982978	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 849947930077405184	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 849688472998875140	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 849949297240158208	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 849950880061431809	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 849946851633758209	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 849556606585012224	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 855575992915701761	RT @EbrahIMred: #SiliconValley Season 4 premieres tonight.\n\nHello Gilfoyle. \U0001f602 https://t.co/A8wnGUSqjy
+  city: -353.06740396202207  label: -359.8418085433764  tvshow: -275.0541137275118 => tvshow
+Tweet: 20284575	"#ThomasMiddledtich on #SiliconValley S4
+  city: -90.94987777612444  label: -86.29587832939065  tvshow: -85.74084564246027 => tvshow
+Tweet: 767309184438329344	HBO\u2019s \u201cSilicon Valley\u201d cast hints about upcoming\xa0season https://t.co/H7Rbhb1OFb @techcrunch #tech #startups #SiliconValley #TV #incubator
+  city: -476.31221643219266  label: -526.365899348734  tvshow: -450.7783900127595 => tvshow
+Tweet: 1130138412	RT @VHyyrylainen: HBO\u2019s \u201cSilicon Valley\u201d cast hints about upcoming\xa0season https://t.co/H7Rbhb1OFb @techcrunch #tech #startups #SiliconValle\u2026
+  city: -350.3591319156062  label: -408.2302176531337  tvshow: -339.9692610982668 => tvshow
+Tweet: 20284575	"#ThomasMiddleditch on #SiliconValley S4
+  city: -198.0661364988623  label: -163.26047749355203  tvshow: -165.09461005501834 => label
+Tweet: 257509781	Want to work at Envision? We're #hiring in MO! Click for details: https://t.co/iuSMypbtOc #Python #Relocate #NYC\u2026 https://t.co/zATne0WhA1
+  city: -509.24973887047184  label: -576.7565731986849  tvshow: -602.4497377965558 => city
+Tweet: 185085429	#startup If U want #sales to Spiral -start with step 1-Responsive #webdesign #SiliconValley premium #webdesigner https://t.co/I8XPWe5ubC
+  city: -498.48138758714623  label: -560.640417330025  tvshow: -545.8709199206884 => city
+Tweet: 770166074474131456	#startup If U want #sales to Spiral -start with step 1-Responsive #webdesign #SiliconValley premium #webdesigner https://t.co/DGzpLhRjNG
+  city: -498.48138758714623  label: -560.640417330025  tvshow: -545.8709199206884 => city
+Tweet: 367266862	#SiliconValley-Konkurrenz? 7 neue Digital Hubs in Deutschland: https://t.co/rqdc455BeS via @heiseonline #digital #stuttgart #innovation
+  city: -287.6578005155741  label: -347.7396369020788  tvshow: -374.37559982120086 => city
+Tweet: 781356614615826432	RT @RottenTomatoes: #SiliconValley to return April 23. For more spring premiere dates: https://t.co/glYcLU67dE https://t.co/Afv6gHQhlc
+  city: -351.608222593161  label: -409.57739652178856  tvshow: -345.0824740829018 => tvshow
